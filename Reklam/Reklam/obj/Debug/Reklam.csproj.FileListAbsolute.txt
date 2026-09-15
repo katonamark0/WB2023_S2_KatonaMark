@@ -1,0 +1,7 @@
+C:\Users\KatonaZoltan\source\repos\Reklam\Reklam\obj\Debug\Reklam.csproj.AssemblyReference.cache
+C:\Users\KatonaZoltan\source\repos\Reklam\Reklam\obj\Debug\Reklam.csproj.CoreCompileInputs.cache
+C:\Users\KatonaZoltan\source\repos\Reklam\Reklam\bin\Debug\Reklam.exe.config
+C:\Users\KatonaZoltan\source\repos\Reklam\Reklam\bin\Debug\Reklam.exe
+C:\Users\KatonaZoltan\source\repos\Reklam\Reklam\bin\Debug\Reklam.pdb
+C:\Users\KatonaZoltan\source\repos\Reklam\Reklam\obj\Debug\Reklam.exe
+C:\Users\KatonaZoltan\source\repos\Reklam\Reklam\obj\Debug\Reklam.pdb
