@@ -1,0 +1,7 @@
+H:\2026.09.14\Tetelek\Tetelek\bin\Debug\Tetelek.exe.config
+H:\2026.09.14\Tetelek\Tetelek\bin\Debug\Tetelek.exe
+H:\2026.09.14\Tetelek\Tetelek\bin\Debug\Tetelek.pdb
+H:\2026.09.14\Tetelek\Tetelek\obj\Debug\Tetelek.csproj.AssemblyReference.cache
+H:\2026.09.14\Tetelek\Tetelek\obj\Debug\Tetelek.csproj.CoreCompileInputs.cache
+H:\2026.09.14\Tetelek\Tetelek\obj\Debug\Tetelek.exe
+H:\2026.09.14\Tetelek\Tetelek\obj\Debug\Tetelek.pdb
