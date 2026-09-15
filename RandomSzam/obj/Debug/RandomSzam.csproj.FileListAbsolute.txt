@@ -1,0 +1,7 @@
+C:\Users\KatonaZoltan\source\repos\RandomSzam\RandomSzam\bin\Debug\RandomSzam.exe.config
+C:\Users\KatonaZoltan\source\repos\RandomSzam\RandomSzam\bin\Debug\RandomSzam.exe
+C:\Users\KatonaZoltan\source\repos\RandomSzam\RandomSzam\bin\Debug\RandomSzam.pdb
+C:\Users\KatonaZoltan\source\repos\RandomSzam\RandomSzam\obj\Debug\RandomSzam.csproj.AssemblyReference.cache
+C:\Users\KatonaZoltan\source\repos\RandomSzam\RandomSzam\obj\Debug\RandomSzam.csproj.CoreCompileInputs.cache
+C:\Users\KatonaZoltan\source\repos\RandomSzam\RandomSzam\obj\Debug\RandomSzam.exe
+C:\Users\KatonaZoltan\source\repos\RandomSzam\RandomSzam\obj\Debug\RandomSzam.pdb
